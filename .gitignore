@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pt
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# Data
+data/*.log
+data/*.csv
+data/*.txt
+data/*.json
+data/*
+data/planetlab/
+
+# OS files
+.DS_Store
+Thumbs.db
