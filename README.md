@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1106560985.svg)](https://doi.org/10.5281/zenodo.21703344)
 
 # Reinforcement Learning–Based Performance Anomaly Detection
 
